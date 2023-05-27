@@ -1,0 +1,8 @@
+[package]
+name = "space-shooter"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+bevy.workspace = true
+rand.workspace = true
